@@ -88,7 +88,9 @@ comprobación, gestión de bugs en Jira, análisis de requisitos y diseños (Fig
 ![Parte 4 - 3](Sprint3-parte4-3.png)
 
 </details>
+
 ---
+
 ### Sprint 4 — Pruebas de API
 **Objetivo:** analizar los requisitos del backend de Urban Grocers para dos nuevas
 funciones (kits de productos y servicio de entrega "Order and Go"), diseñar casos de
