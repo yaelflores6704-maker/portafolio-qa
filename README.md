@@ -33,7 +33,22 @@ valores límite), diagramas de flujo, documentación técnica.
 🔗 [Ver documento completo](https://docs.google.com/document/d/1EL1PheutF1XanF6IJcZQyZmIFeZDx-7W/edit?usp=sharing&ouid=105054465225390802960&rtpof=true&sd=true)
 
 ---
-### Sprint 3 — *(próximamente)*
+### Sprint 3 — Pruebas de aplicaciones web
+**Objetivo:** probar la funcionalidad de "compartir un automóvil" de Urban Routes en dos
+entornos distintos (Chrome 800x600 y Firefox 1920x1080), diseñando listas de comprobación
+y casos de prueba a partir de los requisitos y diseños en Figma.
+
+**Resultado:** listas de comprobación de diseño y de la ventana "Método de pago", casos
+de prueba para los botones "Reservar" y "Reserva de automóvil", ejecución cross-browser,
+y bugs reportados y documentados en Jira (4 tableros, uno por cada parte del proyecto).
+
+**Habilidades:** pruebas cross-browser, diseño de casos de prueba y listas de
+comprobación, gestión de bugs en Jira, análisis de requisitos y diseños (Figma).
+
+🔗 [Ver documento completo](https://docs.google.com/document/d/1nbwGIkgqrjCUf6Iaoiyeoe1xk1lybMmu/edit?usp=sharing)
+📸 Evidencia de bugs en Jira: *(agregar capturas aquí)*
+
+---
 ### Sprint 4 — *(próximamente)*
 ### Sprint 5 — *(próximamente)*
 ### Sprint 6 — *(próximamente)*
