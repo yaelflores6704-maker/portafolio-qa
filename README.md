@@ -89,7 +89,25 @@ comprobación, gestión de bugs en Jira, análisis de requisitos y diseños (Fig
 
 </details>
 ---
-### Sprint 4 — *(próximamente)*
+### Sprint 4 — Pruebas de API
+**Objetivo:** analizar los requisitos del backend de Urban Grocers para dos nuevas
+funciones (kits de productos y servicio de entrega "Order and Go"), diseñar casos de
+prueba y ejecutarlos contra la API real usando Postman.
+
+**Resultado:** 14-20 casos de prueba para el endpoint de kits (límite de 30 productos,
+validaciones de estructura, códigos 400/404) y 15-25 casos de prueba para el endpoint
+de entrega (validación de campos numéricos, clases de equivalencia y valores límite),
+ejecutados en Postman con bugs documentados en Jira.
+
+**Habilidades:** pruebas de API (Postman), análisis de documentación técnica (apiDoc),
+diseño de casos de prueba (clases de equivalencia, valores límite), validación de
+códigos de respuesta HTTP, gestión de bugs en Jira.
+
+🔗 [Ver hoja de cálculo](https://docs.google.com/spreadsheets/d/10d_-O7fybP_G8prLNVH-AEQDrcLSA_zzicp8Vww9xE4/edit?usp=sharing)
+**Nota:** los informes de errores de este sprint se documentaron en Jira durante el
+curso, pero ya no están disponibles por la expiración de la prueba premium usada para
+compartir acceso con el equipo de supervisión.
+---
 ### Sprint 5 — *(próximamente)*
 ### Sprint 6 — *(próximamente)*
 ### Sprint 7 — *(próximamente)*
