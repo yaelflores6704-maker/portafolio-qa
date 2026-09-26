@@ -46,8 +46,48 @@ y bugs reportados y documentados en Jira (4 tableros, uno por cada parte del pro
 comprobación, gestión de bugs en Jira, análisis de requisitos y diseños (Figma).
 
 🔗 [Ver documento completo](https://docs.google.com/document/d/1nbwGIkgqrjCUf6Iaoiyeoe1xk1lybMmu/edit?usp=sharing)
-📸 Evidencia de bugs en Jira: *(agregar capturas aquí)*
+📸 Evidencia de bugs en Jira:
 
+<details>
+<summary>Parte 1</summary>
+
+![Parte 1 - 1](Sprint3-parte1-1.png)
+![Parte 1 - 2](Sprint3-parte1-2.png)
+![Parte 1 - 3](Sprint3-parte1-3.png)
+![Parte 1 - 4](Sprint3-parte1-4.png)
+
+</details>
+
+<details>
+<summary>Parte 2</summary>
+
+![Parte 2 - 1](Sprint3-parte2-1.png)
+![Parte 2 - 2](Sprint3-parte2-2.png)
+![Parte 2 - 3](Sprint3-parte2-3.png)
+
+</details>
+
+<details>
+<summary>Parte 3</summary>
+
+![Parte 3 - 1](Sprint3-parte3-1.png)
+![Parte 3 - 2](Sprint3-parte3-2.png)
+![Parte 3 - 3](Sprint3-parte3-3.png)
+![Parte 3 - 4](Sprint3-parte3-4.png)
+![Parte 3 - 5](Sprint3-parte3-5.png)
+![Parte 3 - 6](Sprint3-parte3-6.png)
+![Parte 3 - 7](Sprint3-parte3-7.png)
+
+</details>
+
+<details>
+<summary>Parte 4</summary>
+
+![Parte 4 - 1](Sprint3-parte4-1.png)
+![Parte 4 - 2](Sprint3-parte4-2.png)
+![Parte 4 - 3](Sprint3-parte4-3.png)
+
+</details>
 ---
 ### Sprint 4 — *(próximamente)*
 ### Sprint 5 — *(próximamente)*
