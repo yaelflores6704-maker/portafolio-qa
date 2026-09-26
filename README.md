@@ -45,7 +45,7 @@ y bugs reportados y documentados en Jira (4 tableros, uno por cada parte del pro
 **Habilidades:** pruebas cross-browser, diseño de casos de prueba y listas de
 comprobación, gestión de bugs en Jira, análisis de requisitos y diseños (Figma).
 
-🔗 [Ver documento completo](https://docs.google.com/document/d/1nbwGIkgqrjCUf6Iaoiyeoe1xk1lybMmu/edit?usp=sharing)
+🔗 [Ver documento completo](https://docs.google.com/spreadsheets/d/1b27CvNYup5Hso9JArwOWUSEEI6cVKzrc/edit?usp=sharing&ouid=109049656323129250882&rtpof=true&sd=true)
 📸 Evidencia de bugs en Jira:
 
 <details>
