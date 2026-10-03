@@ -114,9 +114,58 @@ compartir acceso con el equipo de supervisión.
 Sprint enfocado en desarrollo profesional (sin proyecto técnico entregable).
 
 ---
-### Sprint 6 — *(próximamente)*
-### Sprint 7 — *(próximamente)*
-### Sprint 8 — Automatización en Python (https://github.com/yaelflores6704-maker/qa-project-Urban-Grocers-app-es)
+### Sprint 6 — Pruebas de aplicaciones móviles
+**Objetivo:** probar la aplicación Android "Urban.Lunch" (pedidos de comida con
+recogida en puntos físicos), diseñando una lista de comprobación a partir de los
+requisitos y ejecutándola en un emulador de Android Studio.
+
+**Resultado:** lista de comprobación para la app móvil basada en los requisitos
+oficiales, pruebas ejecutadas en emulador Android, resultados marcados como
+APROBADO/NO APROBADO, y bugs documentados en Jira.
+
+**Habilidades:** pruebas de aplicaciones móviles (Android Studio), diseño de listas
+de comprobación a partir de requisitos, gestión de bugs en Jira.
+
+🔗 [Ver hoja de cálculo](https://docs.google.com/spreadsheets/d/1Hj3z2gis3CNK-setCqFEMJ5izqF2XzcQ/edit?usp=sharing)
+
+**Nota:** los informes de errores de este sprint se documentaron en Jira durante el
+curso, pero ya no están disponibles por la expiración de la prueba premium usada para
+compartir acceso con el equipo de supervisión.
+
+---
+### Sprint 7 — Fundamentos de bases de datos
+**Objetivo:** trabajar en consola con logs de servidor y consultar una base de datos
+de viajes en taxi (Chicago) para resolver tareas de análisis e investigación de bugs.
+
+**Resultado:**
+- Consola/Linux: filtrado de logs por IP y por rango de fechas, organización de
+  resultados en archivos y directorios según tipo de error (400/500).
+- SQL: conteo y agrupamiento de datos (operadores HAVING, CASE), cálculo del número
+  de viajes por compañía, y cruce de datos de viajes con condiciones climáticas para
+  investigar un bug en el cálculo de tarifas.
+
+**Habilidades:** comandos de consola Linux, manejo de logs, SQL (JOIN, GROUP BY,
+HAVING, CASE, funciones de agregación), análisis de datos para investigación de bugs.
+
+🔗 [Ver documento completo](https://docs.google.com/document/d/19527uCUZxjtKZ9FbHvzGLd7cZcWtnAbE/edit?usp=sharing)
+
+---
+### Sprint 8 — Pruebas automatizadas con Python
+**Objetivo:** automatizar con pytest una lista de comprobación de pruebas de API para
+la creación de kits de productos en Urban Grocers (campo `name`), cubriendo casos
+positivos y negativos.
+
+**Resultado:** suite de pruebas automatizadas en Python (pytest) con 9 casos de prueba
+cubriendo límites de caracteres, caracteres especiales, espacios, tipos de datos
+incorrectos y campos faltantes, organizada en archivos separados por responsabilidad
+(configuración, datos, envío de solicitudes y pruebas).
+
+**Habilidades:** automatización de pruebas (Python, pytest), diseño orientado a
+funciones reutilizables, control de versiones (Git/GitHub), pruebas de API.
+
+🔗 [Ver repositorio](https://github.com/yaelflores6704-maker/qa-project-Urban-Grocers-app-es)
+
+---
 
 ## Sobre mí
 Licenciado en Medicina Veterinaria y Zootecnia (UNAM) en transición a QA Engineering.
