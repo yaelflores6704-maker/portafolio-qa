@@ -110,7 +110,10 @@ códigos de respuesta HTTP, gestión de bugs en Jira.
 curso, pero ya no están disponibles por la expiración de la prueba premium usada para
 compartir acceso con el equipo de supervisión.
 ---
-### Sprint 5 — *(próximamente)*
+### Sprint 5 — Preparación de carrera
+Sprint enfocado en desarrollo profesional (sin proyecto técnico entregable).
+
+---
 ### Sprint 6 — *(próximamente)*
 ### Sprint 7 — *(próximamente)*
 ### Sprint 8 — Automatización en Python (https://github.com/yaelflores6704-maker/qa-project-Urban-Grocers-app-es)
